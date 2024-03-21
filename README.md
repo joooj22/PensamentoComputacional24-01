@@ -1,2 +1,2 @@
 # PensamentoComputacional24-01
-*SCM*: colaboração
+*SCM*: colabor**ação**
