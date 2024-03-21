@@ -19,5 +19,6 @@
 ![alt text](image.png)
 
 
-tabela aqui (https://github.com/joooj22/segundo-) 
+anotações e tabela: (2024_03_21/notes.md)
+
 
