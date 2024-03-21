@@ -3,6 +3,11 @@
 
 *SCM*: colabor**ação**
 
-. RDR
-  .rdr1
-  .rdr2
+- RDR
+  - RDR1
+  - RDR2
+- DS
+  - DS1
+  - DS3
+  - Elden
+- Hollow Knight 
