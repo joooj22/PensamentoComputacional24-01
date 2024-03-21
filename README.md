@@ -19,6 +19,6 @@
 ![alt text](image.png)
 
 
-anotações e tabela: [2024_03_21/notes.md]([2024_03_21/notes.md])
+anotações e tabela: [2024_03_21/notes.md]([2024_03_21/notes.md)
 
 
